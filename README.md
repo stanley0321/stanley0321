@@ -13,4 +13,4 @@ Data scientist in iGaming, based in Manila. I work on marketing and CRM analytic
 
 **Tools:** SQL (Snowflake, MaxCompute), Python, R, Tableau, Streamlit, Dash, Optimove, Claude Code
 
-**Links:** [Web resume](https://stanley0321.github.io/cv/) · [LinkedIn](https://www.linkedin.com/in/donghwanyun) · yun090914@gmail.com
+**Links:** [LinkedIn](https://www.linkedin.com/in/donghwanyun) · yun090914@gmail.com
